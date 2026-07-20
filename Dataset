@@ -1,1 +1,14 @@
+Dataset used:
+E-Commerce Shipping Data
+
+Source:
+Kaggle - Customer Analytics Dataset
+
+The dataset contains 10,999 shipment records with features related to:
+- Product details
+- Shipping mode
+- Warehouse information
+- Customer interactions
+- Delivery status
+
 Dataset link: https://www.kaggle.com/datasets/prachi13/customer-analytics
